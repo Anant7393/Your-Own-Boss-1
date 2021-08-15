@@ -1,0 +1,64 @@
+
+.add-team{
+    position: absolute;
+width: 158px;
+height: 39px;
+left: 1149px;
+top: 142px;
+color: white;
+background: #52B788;
+border-radius: 5px;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+.btn-primary{
+    background-color: #52B788;
+}
+.mark{
+    position: absolute;
+width: 111px;
+height: 25px;
+left: 1155px;
+top: 857px;
+
+font-family: Nunito;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 25px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+.btn .btn-success
+    :hover{
+        background-color: #52B788;
+        text-decoration: underline;
+
+}
+#navbar ul li a.current{
+    color: #52B788
+}
+#navbar ul li a:hover{
+    text-decoration: underline;
+    color:#52B788;}
+
+   
+      .closebtn {
+        margin-left: 15px;
+        color: white;
+        font-weight: bold;
+        float: right;
+        font-size: 22px;
+        line-height: 20px;
+        cursor: pointer;
+        transition: 0.3s;
+      }
+      
+      /* When moving the mouse over the close button */
+      .closebtn:hover {
+        color: black;
+      }
