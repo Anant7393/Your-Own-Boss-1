@@ -1,0 +1,195 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Nunito', sans-serif;
+}
+
+/* .nav{
+    height:40px;
+    width:100%;
+    background-color:#081c15;
+    color: #ffffff;
+    /* display: float;
+    float: left; */
+    /* display: grid;
+    grid-template-columns: 35% 60%;
+    }
+    .nav p{
+        margin: 4px;
+    }
+.nav ul{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 4px;
+}
+.nav ul li{
+    list-style: none;
+    text-decoration: none;
+    justify-content:space-between;
+
+}
+.nav ul li a{
+    
+    text-decoration: none;
+} */ 
+
+
+
+/* #navbar{
+    display: flex;
+    position: sticky;
+    top: 0;
+    background: #333;
+    color: #fff;
+    justify-content: center;
+
+    }
+#navbar ul{
+    display: flex;
+    align-items: center;
+    list-style: none;
+    
+}
+
+#navbar ul li a{
+    color: #fff;
+    padding: 0  0.75rem;
+    margin: 0 0.25rem;
+    cursor: pointer;
+    
+}
+#navbar ul li a:hover{
+    text-decoration: underline;
+}
+#navbar ul li a.current
+{
+    background-color:orange;
+    color:#fff;
+   
+    border: 1px solid red;
+    text-decoration: underline;} */
+
+
+
+    #navbar{
+        display: flex;
+        position: sticky;
+        top: 0;
+        background:black;
+        color: #fff;
+        justify-content: space-between;
+        z-index: 1;
+        padding: 1rem;
+    }
+    #navbar ul {
+        display: flex;
+        align-items: center;
+        list-style: none;
+    }
+    #navbar ul li a {
+        color: #fff;
+        padding: 0.75rem;
+        margin : 0 0.25rem;
+        text-decoration:none;
+    }
+    #navbar ul li a.current{
+        color: #52B788
+    }
+    #navbar ul li a:hover{
+        text-decoration: underline;
+        color:#52B788;}
+
+        section{
+            width: 100%;
+           
+        }
+        .blog{
+            display: grid;
+            grid-template-columns:72% 23%;
+        }
+        /* .blog .menu p{
+            background: url(./WhatsApp\ Image\ 2021-08-14\ at\ 7.43.56\ PM.jpeg);
+        } */
+        .buttons{
+            height:65px;
+            display:flex;
+            align-items:center;
+            justify-content:space-between;
+        }
+        .btn{
+            position: relative;
+            border:none;
+            outline: none;
+            background:#36363f;
+            color:#fff ;
+            height: 40px;
+            border-radius:50px;
+            font-size:.9rem;
+            
+        }
+        .cart{
+            width:160px
+
+        }
+        .menu{
+            position: relative;
+            height:420px;
+            width: 300px;
+            box-shadow: 0 10px 15px rgba(181,181,181,0.7);
+            background:#f0f0f0;
+            margin-top:50px;
+
+        }
+        .blog-img{
+            width:300px;
+            height:230px;
+            background:url(./WhatsApp\ Image\ 2021-08-14\ at\ 10.55.58\ PM.jpeg) 0 -200px / cover;
+        }
+        .blog-img1{
+            width:300px;
+            height:230px;
+            background:url(./WhatsApp\ Image\ 2021-08-14\ at\ 10.55.58\ PM.jpeg) 0 -200px / cover;
+        }
+        .blog-img3{
+            width:300px;
+            height:230px;
+            background:url(./WhatsApp\ Image\ 2021-08-14\ at\ 7.44.06\ PM.jpeg) 0 -200px / cover;
+        }
+        .blog-img2{
+            width:300px;
+            height:230px;
+            background:url(./WhatsApp\ Image\ 2021-08-14\ at\ 7.44.33\ PM.jpeg) 0 -200px / cover;
+        }
+        .blog-detail{
+            width: 300px;
+            height: 190px;
+            background: #21222d;
+            border-radius:0 40% 0 0;
+            padding:.8rem;
+            color:#fff;
+        }
+        .rating{
+            font-size: .7rem;
+            color: #fdcc0d;
+        }
+        .blog-detail p{
+            font-size: .8rem;
+            color: 5f5f6b;
+        }
+        .bookmark{
+            width: 40px;
+            border-radius: 50%;
+            
+        }
+        .blog .content{
+            margin: 50px;
+            padding:15px;
+            background-color:rgba(194,194,194,0.2);
+        }
+        .matter{
+            display:grid;
+            grid-template-columns: 45% 45%;
+        }

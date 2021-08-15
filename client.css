@@ -1,0 +1,37 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Nunito', sans-serif;
+}
+body{
+    width: 100%;
+    height: 1200px;
+}
+#navbar{
+    display: flex;
+    position: sticky;
+    top: 0;
+    background:black;
+    color: #fff;
+    justify-content: space-between;
+    z-index: 1;
+    padding: 1rem;
+}
+#navbar ul {
+    display: flex;
+    align-items: center;
+    list-style: none;
+}
+#navbar ul li a {
+    color: #fff;
+    padding: 0.75rem;
+    margin : 0 0.25rem;
+    text-decoration:none;
+}
+#navbar ul li a.current{
+    color: #52B788
+}
+#navbar ul li a:hover{
+    text-decoration: underline;
+    color:#52B788;}
