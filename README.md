@@ -55,6 +55,7 @@ The project is created using
 
 ## 👬 Features
 i) It provides a to-do list to the creators where he/she add his/her projects and a checklist if they have completed their project the can mark them Marked as done and then it will be remove from their to-do-list.They can also delete their project fromtheir list but before deleting a "Warning Pop-uP " comes to their screen.
+
   ii) The screen also has a clock which welcomes our user and show date and time and automatically keep updated second to second.
 We all want someone to have  our back so it provides you with a feature of ADD A TEAM so that whenever the freelancer is in stress we can decrease his workload by adding a team so that whenever a freelancer is in stress we can decrease is workload by adding a team .   Now to add adding a team he can add any person across the globe and chat with them this provides other person an opportunity to showcase their talents and freelance to decrease his work.
  A lot many times under stress pressure we forget our deadlines so for that we have a feature which will provide reminders to creators whenever a deadline  is approaching now.
