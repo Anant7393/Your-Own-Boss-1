@@ -1,13 +1,13 @@
-# Your-Own-Boss
-# 👣 Git Set Go
-### 🧐 A Github profile resume generator. ✨
 
-![Demo](./demo/demo.gif)
+# 👣 Your-Own-Boss
+### 🧐 FinTech Creator Economy ✨
 
 
 
-![Author](https://img.shields.io/badge/author-garimasingh128-orange)
-![Author](https://img.shields.io/badge/author-mrinal41298-orange)
+
+
+![Developer](https://img.shields.io/badge/developer-Priyanshi-Raj-brightgreen)
+![Developer](https://img.shields.io/badge/developer-anant7393-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-brightgreen)
 ![Platform](https://img.shields.io/badge/platform-Visual%20Studio%20Code-blue)
 ![Maintained](https://img.shields.io/maintenance/yes/2020)
