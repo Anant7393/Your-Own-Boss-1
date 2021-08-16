@@ -6,10 +6,10 @@
 
 
 
-![Developer](https://img.shields.io/badge/developer-priyanshi-raj-brightgreen)
+![Developer](https://img.shields.io/badge/developer-priyanshi2909-brightgreen)
 ![Developer](https://img.shields.io/badge/developer-anant7393-brightgreen)
-![Designer](https://img.shields.io/badge/developer-dikshita-jain-13-orange)
-![Designer](https://img.shields.io/badge/developer-vasavi-001-orange)
+![Designer](https://img.shields.io/badge/developer-dikshitajain13-orange)
+![Designer](https://img.shields.io/badge/developer-vasavi001-orange)
 
 ![Platform](https://img.shields.io/badge/platform-Visual%20Studio%20Code-blue)
 
