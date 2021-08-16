@@ -82,6 +82,6 @@ Also, Paypal generate invoices with salt and other challenge of “generating in
 
 
 
-## ❤️ Thanks to our awesome contributors.
+## Made With ❤️ by our hack2dev Team.
 
 
