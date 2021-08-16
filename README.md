@@ -1,5 +1,5 @@
 
-# 👣 Your-Own-Boss
+# 📖 Your-Own-Boss
 ### 🧐 FinTech Creator Economy ✨
 
 
@@ -14,9 +14,9 @@
 ![Platform](https://img.shields.io/badge/platform-Visual%20Studio%20Code-blue)
 
 
-![Language](https://img.shields.io/github/languages/Priyanshi-Raj/Your-Own-Boss)
+![Language](https://img.shields.io/github/languages/top/Priyanshi-Raj/Your-Own-Boss)
 ![Size](https://img.shields.io/github/repo-size/Priyanshi-Raj/Your-Own-Boss)
-## 👩‍ Demo PDF generated
+## 👩‍ Task and Economy Manager for Creators
 
 <div align="center">
 
@@ -26,9 +26,9 @@
 A Github Resume generator 👨‍💻👩‍ to create your own personalised resume based on your Github profile. 🔎 This tool lets you have your resume on a single click.
 
 
-# This project is a part of Hakin Codes 2020 👣
-  OPEN SOURCE CONTEST - Hakin Codes
-  ### About HakinCodes 2020 💻
+# This project is a part of Devfest2.0  👣
+  Hackathon - by BITS GOA
+  ### About Devfest2.0 2021 💻
   HakinCodes is founded with a vision to impart technical knowledge with practical implementations to all the students and developers around.
 
 At HakinCodes it's our mission to provide guidance to the participants from the mentors who are highly skilled and experienced in particular stacks whether be it technical or non-technical.
@@ -49,121 +49,42 @@ At HakinCodes we maintain a trustworthy and healthy environment and respect each
 
 
 
-⭐ [Check out the website of HackinCodes 2020](https://hakincodes.tech)
+⭐ [Check out the website of Devfest](https://fest.devsoc.club/)
 
 ## 📋 Table of Contents
- ➡️   [Vision](#-vision)
-
- ➡️   [Project Structure](#-project-structure)
+ ➡️   [Overview](#-overview)
  
  ➡️   [Tech Stack](#-tech-stack)
  
- ➡️   [Setup Development Environment](#-steps-to-setup-development-environment)
-
- ➡️   [Development Guidelines](#-development-guidelines)
+ ➡️   [Features](#-features)
  
- ➡️   [Learning Resources](#-learning-resources)
+ ➡️   [Future Plans](#-future-plans)
  
-➡️   [Future Plans](#-future-plans)
 
- ➡️   [System Requirements](#-system-requirements)
- 
- ➡️   [Contributing](#-contributing)
- 
- ➡️   [Owner](#-owner)
- 
- ➡️   [How to run it locally?](#-Running-it-locally)
-
-
-
-
-
-## 👩‍ Vision
-Getting your Github profile under a single page in a resume type-of format so that you can simply put your Github resume when applying to internships or job profiles.
-
-## ❤️ Inspiration
-We were inspired to create it when we saw that not many tools are available open-source or on the Internet which do the job we intend to do. So we decided to create it as a side-project based purely to learn and have some fun juggling with Github APIs'.
-
-## 🤷 Project Structure
-    .
-    ├── ...
-    ├── .github
-    │── node_modules
-    │── public
-    │── src (has all the components, JS files, CSS files etc. )
-    |── all MD files
-    |── images, demo video and templates
-    └── ...
+## 👩‍ Overview
+Creators face a major problem of managing deals & projects, accepting & managing payments, manage invoices, accept tips from fans, and many more.
+we develop a solution for the creator economy which helps to manage their day-to-day task
+and makes their life a lot simpler.
     
 ## 🔆 Tech Stack
-The project is created using create-react-app and based on React.js framework.
--  JavaScript: 84.5%
--  HTML: 10.3%
--  CSS: 5.2%
+The project is created using
+-  JavaScript
+-  HTML
+-  CSS
+-  Figma
 
-## 👬 Design and Roadmap
+## 👬 Features
 The [Roadmap](https://www.figma.com/file/czzHjTUJS94Rl676D8up5s/GitSetGo?node-id=0%3A1) we intended to follow is present here. Feel free to suggest ideas and opinions.
 
-## 🚀 Steps to setup development environment
-1.  Clone the repo
- ```bash
- git clone github.com/your_username/gitsetgo.git
- ```
- 2. Open the folder in your favorite code editor and start adding modifications.
-
- ## 💻 Development guidelines
-
-1.  Put all the code in one of the existing files in  `/src`.
-    
-3.  Push all the code to your own branch. Once you are sure it is working, merge it with the `dev`  branch. Let's maintain only the stable and released versions on the  `master`  branch.
-    
-4.  Write a kick-ass, readable, and clean code.
-
-## 📝 Learning Resources
-
-Read these articles to get a quick grab on handling Github API's and other technologies used in the project:
-- https://developer.github.com/v3/ 
-- https://developer.github.com/v4/ 
-- https://github.com/octokit/rest.js/ 
-- https://github.com/octokit/graphql.js
-- [Prettier.io used in the project](https://prettier.io)
+## 🚀 Future Plans
+ 1.  Adding a authorised video conferencing feature 
+ 2.  Using heatmap feature in hire a creator window to grab the interest and many more..
+ 3.  Adding virtual assistant using API and AI.
+ 4.  Giving Notification to the creators on their phone or mail about deadlines or projects.
+ 5.  Connecting with cloud for storing info about previous projects.
+ 6.  Adding some advance backend.
 
 
-Resources to learn Git:
--  https://try.github.io/
-
-## ✨ Future Plans
-- Github Timeline 
-- Github competition between two users
-- Personalised template for resume
-- Enhancing the existing resume template
-- Showing Github feed of others
-
-`Feel free to create issues to suggest and add functionalities and features.`
-
-
-## 💻 System Requirements
--  Google Chrome
--  Git
--  Code Editor (Visual Studio Code, Sublime Text)
-
-## 🏆 Contributing
-
-Please read  [CONTRIBUTING.md](CONTRIBUTING.md)  for information on how to contribute to profext-extension.
-
-##  💼  Code of Conduct
-
-We want to facilitate a healthy and constructive community behavior by adopting and enforcing our code of conduct.
-
-Please adhere towards our [code-of-conduct.md](code-of-conduct.md).
-
-## 👬 Owner
-
-<a href="https://github.com/garimasingh128"><img src="https://avatars3.githubusercontent.com/u/44302373?s=460&u=efaafa72f4d83d40b66fc68258d14cebbf1d7de0&v=4" width="100px;" alt=""/><br /><sub><b>Garima Singh</b></sub></a><br/>
-<a href="https://github.com/mrinal41298"><img src="https://avatars3.githubusercontent.com/u/55679963?s=460&u=66c9d1ec2ce9183bb517311a4f5ff32286e4df72&v=4" width="100px;" alt=""/><br /><sub><b>Mrinal Kumar</b></sub></a><br />
-
-
-[![built with love](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/mrinal41298/)
 
 ## ❤️ Thanks to our awesome contributors.
 
