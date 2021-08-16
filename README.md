@@ -18,11 +18,6 @@
 ![Size](https://img.shields.io/github/repo-size/Priyanshi-Raj/Your-Own-Boss)
 ## 💬 Task and Economy Manager for Creators
 
-<div align="center">
-
-<img src="./demo/ss.png" width="600">
-</div>
-
 Your Own Boss 👨 to manage task and payments for freelancers/creators with many other features to make their life easy.
 
 
@@ -56,7 +51,7 @@ The project is created using
 -  CSS
 -  Figma
 -  Adobe Illustrator
--  After Effects
+-  Adobe After Effects
 
 ## 👬 Features
 i) It provides a to-do list to the creators where he/she add his/her projects and a checklist if they have completed their project the can mark them Marked as done and then it will be remove from their to-do-list.They can also delete their project fromtheir list but before deleting a "Warning Pop-uP " comes to their screen.
