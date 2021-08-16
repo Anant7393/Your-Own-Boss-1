@@ -59,6 +59,7 @@ i) It provides a to-do list to the creators where he/she add his/her projects an
   ii) The screen also has a clock which welcomes our user and show date and time and automatically keep updated second to second.
 We all want someone to have  our back so it provides you with a feature of ADD A TEAM so that whenever the freelancer is in stress we can decrease his workload by adding a team so that whenever a freelancer is in stress we can decrease is workload by adding a team .   Now to add adding a team he can add any person across the globe and chat with them this provides other person an opportunity to showcase their talents and freelance to decrease his work.
  A lot many times under stress pressure we forget our deadlines so for that we have a feature which will provide reminders to creators whenever a deadline  is approaching now.
+ 
  Another major problem faced by the creator of freelancer is payment.
 Major issues faced in payment such as-
 1.	Heavy taxation
