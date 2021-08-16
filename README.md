@@ -14,7 +14,7 @@
 ![Platform](https://img.shields.io/badge/platform-Visual%20Studio%20Code-blue)
 
 
-![Language](https://img.shields.io/github/languages/top/Priyanshi-Raj/Your-Own-Boss)
+![Language](https://img.shields.io/github/languages/Priyanshi-Raj/Your-Own-Boss)
 ![Size](https://img.shields.io/github/repo-size/Priyanshi-Raj/Your-Own-Boss)
 ## 👩‍ Demo PDF generated
 
