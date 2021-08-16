@@ -6,7 +6,7 @@
 ![](i am a creator.png)
 
 
-![Developer](https://img.shields.io/badge/developer-priyanshi2909-brightgreen)
+![Developer](https://img.shields.io/badge/developer-priyanshiraj2909-brightgreen)
 ![Developer](https://img.shields.io/badge/developer-anant7393-brightgreen)
 ![Designer](https://img.shields.io/badge/designer-dikshitajain13-orange)
 ![Designer](https://img.shields.io/badge/designer-vasavi001-orange)
